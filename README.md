@@ -1,6 +1,6 @@
 # assessment-2-cp5637-team-06
-assessment-2-cp5637-team-06 created by GitHub Classroom</br>
-<b> About U3A website</b></br>
+<b>assessment-2-cp5637-team-06 created by GitHub Classroom</br>
+ About U3A website: http://u3ademoteam06.com/</br>
 Contributors: TANVEER AND HARPAL </br>
 Tested up to: WordPress 4.9.8</br>
 <b>Description</b></br>
@@ -24,9 +24,19 @@ Click Activate to use your new theme right away.
   GULP/
   
   <B>MAIN PAGES WHERE YOU CAN EDIT CONTENT:<b>
+  <ul>
+  <li>index.php<li>
+  <li>header.php<li>
+  <li>footer.php<li>
+  <li>function.php in this we have created different sidebars to use widgets according to our requirement<li>
+  <li>sidebar.php<li>
+  <li>single.php<li>
+  <li>style.css<li>
+  <li>sass folder : contains styling of template <li>
+ <li> page.php, pagefull-width.php,page-withsidebar.php,page-gallery.php,single-fullwidth.php are used to customize different pages of the website using them as templates<li>
   
+  <ul>
   
-  <b>HOW TO USE THE CODE STEP BY STEP<b><br>
   
   NOTE: If you want to keep it simple, head over to https://underscores.me and generate your _s based theme from there. You just input the name of the theme you want to create, click the "Generate" button, and you get your ready-to-awesomize starter theme.<li>Before you update anything, make sure you have backup copies of any files you may have modified such as <code>index.php</code>.</li>
 
@@ -49,7 +59,7 @@ Go to All in One WP Migration and click export to and choose file. Now, download
 
 3rd Step: Import the file into your LIVE Website.
   
- 
+OTHER RESOURCES
 
 You are Now Good to GO!!!
 ALL THE BEST
