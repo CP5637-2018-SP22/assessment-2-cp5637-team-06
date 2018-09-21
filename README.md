@@ -5,10 +5,10 @@ Contributors: TANVEER AND HARPAL </br>
 Tested up to: WordPress 4.9.8</br>
 <b>Description</b></br>
 The purpose of U3A Groups worldwide is to enhance the life of the Third Age community.This website is a proposed improved version of their previous website.</br>
-We currently have very low ‘brand recognition
+NEED FOR AN UPDATE: currently have very low ‘brand recognition
 Most members join because of direct invitation
-We want new members to feel comfortable by using the Web site to become members
-To interact with our members
+new members should feel comfortable by using the Web site to become members
+To interaction between members
 To attract funds from benefactors
 
 
